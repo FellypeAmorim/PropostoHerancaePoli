@@ -1,0 +1,13 @@
+C:\Users\gisel\Desktop\Projeto C#\PropostHerancaePoli\PropostHerancaePoli\bin\Debug\netcoreapp3.1\PropostHerancaePoli.exe
+C:\Users\gisel\Desktop\Projeto C#\PropostHerancaePoli\PropostHerancaePoli\bin\Debug\netcoreapp3.1\PropostHerancaePoli.deps.json
+C:\Users\gisel\Desktop\Projeto C#\PropostHerancaePoli\PropostHerancaePoli\bin\Debug\netcoreapp3.1\PropostHerancaePoli.runtimeconfig.json
+C:\Users\gisel\Desktop\Projeto C#\PropostHerancaePoli\PropostHerancaePoli\bin\Debug\netcoreapp3.1\PropostHerancaePoli.runtimeconfig.dev.json
+C:\Users\gisel\Desktop\Projeto C#\PropostHerancaePoli\PropostHerancaePoli\bin\Debug\netcoreapp3.1\PropostHerancaePoli.dll
+C:\Users\gisel\Desktop\Projeto C#\PropostHerancaePoli\PropostHerancaePoli\bin\Debug\netcoreapp3.1\PropostHerancaePoli.pdb
+C:\Users\gisel\Desktop\Projeto C#\PropostHerancaePoli\PropostHerancaePoli\obj\Debug\netcoreapp3.1\PropostHerancaePoli.csprojAssemblyReference.cache
+C:\Users\gisel\Desktop\Projeto C#\PropostHerancaePoli\PropostHerancaePoli\obj\Debug\netcoreapp3.1\PropostHerancaePoli.csproj.CoreCompileInputs.cache
+C:\Users\gisel\Desktop\Projeto C#\PropostHerancaePoli\PropostHerancaePoli\obj\Debug\netcoreapp3.1\PropostHerancaePoli.AssemblyInfoInputs.cache
+C:\Users\gisel\Desktop\Projeto C#\PropostHerancaePoli\PropostHerancaePoli\obj\Debug\netcoreapp3.1\PropostHerancaePoli.AssemblyInfo.cs
+C:\Users\gisel\Desktop\Projeto C#\PropostHerancaePoli\PropostHerancaePoli\obj\Debug\netcoreapp3.1\PropostHerancaePoli.dll
+C:\Users\gisel\Desktop\Projeto C#\PropostHerancaePoli\PropostHerancaePoli\obj\Debug\netcoreapp3.1\PropostHerancaePoli.pdb
+C:\Users\gisel\Desktop\Projeto C#\PropostHerancaePoli\PropostHerancaePoli\obj\Debug\netcoreapp3.1\PropostHerancaePoli.genruntimeconfig.cache
